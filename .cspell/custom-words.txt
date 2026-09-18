@@ -6,6 +6,7 @@ Fulltext
 Heyi
 Jamik
 langchain
+langgraph
 miaoma
 miaomaignore
 mxbai
