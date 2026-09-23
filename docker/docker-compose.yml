@@ -9,7 +9,7 @@ services:
         environment:
             - POSTGRES_USER=postgres
             - POSTGRES_DB=postgres
-            # - POSTGRESQL_USERNAME=zzx
+            # - POSTGRESQL_USERNAME=heyi
             - POSTGRES_PASSWORD=xiaoer
             # - POSTGRESQL_DATABASE=postgres
         volumes:
